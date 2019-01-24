@@ -9,6 +9,7 @@ The entity attribute identification data collection and its corresponding qrels 
 
 - `queries.json`: 167 queries selected from the [DBpedia-Entity v2](http://tiny.cc/dbpedia-entity) collection. The procedure of selecting these queries is described in the paper.
 - `qrel.txt`: TREC style qrels file.
+- `runs`: run files of baselines and proposed model.
 
 ## Citation
 
